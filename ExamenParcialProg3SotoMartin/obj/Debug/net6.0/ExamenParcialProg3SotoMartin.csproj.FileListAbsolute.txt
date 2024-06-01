@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\bin\Debug\net6.0\ExamenParcialProg3SotoMartin.exe
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\bin\Debug\net6.0\ExamenParcialProg3SotoMartin.deps.json
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\bin\Debug\net6.0\ExamenParcialProg3SotoMartin.runtimeconfig.json
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\bin\Debug\net6.0\ExamenParcialProg3SotoMartin.dll
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\bin\Debug\net6.0\ExamenParcialProg3SotoMartin.pdb
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\ExamenParcialProg3SotoMartin.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\ExamenParcialProg3SotoMartin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\ExamenParcialProg3SotoMartin.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\ExamenParcialProg3SotoMartin.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\ExamenParcialProg3SotoMartin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\ExamenParcialProg3SotoMartin.dll
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\refint\ExamenParcialProg3SotoMartin.dll
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\ExamenParcialProg3SotoMartin.pdb
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\ExamenParcialProg3SotoMartin.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ExamenProg3\ExamenParcialProg3SotoMartin\obj\Debug\net6.0\ref\ExamenParcialProg3SotoMartin.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "solucionModaEstadisticaProg3/1.0.0": {
+        "runtime": {
+          "solucionModaEstadisticaProg3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "solucionModaEstadisticaProg3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

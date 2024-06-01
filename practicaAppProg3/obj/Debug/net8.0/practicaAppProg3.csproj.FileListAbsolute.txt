@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\practicaAppProg3\bin\Debug\net8.0\practicaAppProg3.exe
+C:\Users\usuario\source\repos\practicaAppProg3\bin\Debug\net8.0\practicaAppProg3.deps.json
+C:\Users\usuario\source\repos\practicaAppProg3\bin\Debug\net8.0\practicaAppProg3.runtimeconfig.json
+C:\Users\usuario\source\repos\practicaAppProg3\bin\Debug\net8.0\practicaAppProg3.dll
+C:\Users\usuario\source\repos\practicaAppProg3\bin\Debug\net8.0\practicaAppProg3.pdb
+C:\Users\usuario\source\repos\practicaAppProg3\obj\Debug\net8.0\practicaAppProg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\practicaAppProg3\obj\Debug\net8.0\practicaAppProg3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\practicaAppProg3\obj\Debug\net8.0\practicaAppProg3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\practicaAppProg3\obj\Debug\net8.0\practicaAppProg3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\practicaAppProg3\obj\Debug\net8.0\practicaAppProg3.dll
+C:\Users\usuario\source\repos\practicaAppProg3\obj\Debug\net8.0\refint\practicaAppProg3.dll
+C:\Users\usuario\source\repos\practicaAppProg3\obj\Debug\net8.0\practicaAppProg3.pdb
+C:\Users\usuario\source\repos\practicaAppProg3\obj\Debug\net8.0\practicaAppProg3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\practicaAppProg3\obj\Debug\net8.0\ref\practicaAppProg3.dll

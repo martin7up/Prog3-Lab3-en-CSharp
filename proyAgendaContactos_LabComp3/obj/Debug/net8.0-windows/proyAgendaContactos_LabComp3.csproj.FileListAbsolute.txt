@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\bin\Debug\net8.0-windows\proyAgendaContactos_LabComp3.exe
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\bin\Debug\net8.0-windows\proyAgendaContactos_LabComp3.deps.json
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\bin\Debug\net8.0-windows\proyAgendaContactos_LabComp3.runtimeconfig.json
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\bin\Debug\net8.0-windows\proyAgendaContactos_LabComp3.dll
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\bin\Debug\net8.0-windows\proyAgendaContactos_LabComp3.pdb
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\proyAgendaContactos_LabComp3.Form1.resources
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\proyAgendaContactos_LabComp3.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\proyAgendaContactos_LabComp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\proyAgendaContactos_LabComp3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\proyAgendaContactos_LabComp3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\proyAgendaContactos_LabComp3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\proyAgendaContactos_LabComp3.dll
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\refint\proyAgendaContactos_LabComp3.dll
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\proyAgendaContactos_LabComp3.pdb
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\proyAgendaContactos_LabComp3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\proyAgendaContactos_LabComp3\obj\Debug\net8.0-windows\ref\proyAgendaContactos_LabComp3.dll

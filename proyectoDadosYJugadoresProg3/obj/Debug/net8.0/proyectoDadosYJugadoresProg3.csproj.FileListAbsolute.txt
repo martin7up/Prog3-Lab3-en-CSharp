@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\bin\Debug\net8.0\proyectoDadosYJugadoresProg3.exe
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\bin\Debug\net8.0\proyectoDadosYJugadoresProg3.deps.json
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\bin\Debug\net8.0\proyectoDadosYJugadoresProg3.runtimeconfig.json
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\bin\Debug\net8.0\proyectoDadosYJugadoresProg3.dll
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\bin\Debug\net8.0\proyectoDadosYJugadoresProg3.pdb
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\obj\Debug\net8.0\proyectoDadosYJugadoresProg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\obj\Debug\net8.0\proyectoDadosYJugadoresProg3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\obj\Debug\net8.0\proyectoDadosYJugadoresProg3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\obj\Debug\net8.0\proyectoDadosYJugadoresProg3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\obj\Debug\net8.0\proyectoDadosYJugadoresProg3.dll
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\obj\Debug\net8.0\refint\proyectoDadosYJugadoresProg3.dll
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\obj\Debug\net8.0\proyectoDadosYJugadoresProg3.pdb
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\obj\Debug\net8.0\proyectoDadosYJugadoresProg3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\proyectoDadosYJugadoresProg3\obj\Debug\net8.0\ref\proyectoDadosYJugadoresProg3.dll

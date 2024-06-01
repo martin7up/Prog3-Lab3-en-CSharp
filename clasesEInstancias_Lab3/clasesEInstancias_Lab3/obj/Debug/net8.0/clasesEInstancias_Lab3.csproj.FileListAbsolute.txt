@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\bin\Debug\net8.0\clasesEInstancias_Lab3.exe
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\bin\Debug\net8.0\clasesEInstancias_Lab3.deps.json
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\bin\Debug\net8.0\clasesEInstancias_Lab3.runtimeconfig.json
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\bin\Debug\net8.0\clasesEInstancias_Lab3.dll
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\bin\Debug\net8.0\clasesEInstancias_Lab3.pdb
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\obj\Debug\net8.0\clasesEInstancias_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\obj\Debug\net8.0\clasesEInstancias_Lab3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\obj\Debug\net8.0\clasesEInstancias_Lab3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\obj\Debug\net8.0\clasesEInstancias_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\obj\Debug\net8.0\clasesEInstancias_Lab3.dll
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\obj\Debug\net8.0\refint\clasesEInstancias_Lab3.dll
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\obj\Debug\net8.0\clasesEInstancias_Lab3.pdb
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\obj\Debug\net8.0\clasesEInstancias_Lab3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\clasesEInstancias_Lab3\clasesEInstancias_Lab3\obj\Debug\net8.0\ref\clasesEInstancias_Lab3.dll

@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\bin\Debug\net8.0\grupalEstructuraDeDecision.exe
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\bin\Debug\net8.0\grupalEstructuraDeDecision.deps.json
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\bin\Debug\net8.0\grupalEstructuraDeDecision.runtimeconfig.json
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\bin\Debug\net8.0\grupalEstructuraDeDecision.dll
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\bin\Debug\net8.0\grupalEstructuraDeDecision.pdb
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\obj\Debug\net8.0\grupalEstructuraDeDecision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\obj\Debug\net8.0\grupalEstructuraDeDecision.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\obj\Debug\net8.0\grupalEstructuraDeDecision.AssemblyInfo.cs
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\obj\Debug\net8.0\grupalEstructuraDeDecision.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\obj\Debug\net8.0\grupalEstructuraDeDecision.dll
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\obj\Debug\net8.0\refint\grupalEstructuraDeDecision.dll
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\obj\Debug\net8.0\grupalEstructuraDeDecision.pdb
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\obj\Debug\net8.0\grupalEstructuraDeDecision.genruntimeconfig.cache
+C:\Users\usuario\source\repos\grupalEstructuraDeDecision\grupalEstructuraDeDecision\obj\Debug\net8.0\ref\grupalEstructuraDeDecision.dll

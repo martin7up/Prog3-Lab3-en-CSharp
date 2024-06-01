@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\bin\Debug\net8.0-windows\proyectoSimonDiceProg3.exe
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\bin\Debug\net8.0-windows\proyectoSimonDiceProg3.deps.json
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\bin\Debug\net8.0-windows\proyectoSimonDiceProg3.runtimeconfig.json
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\bin\Debug\net8.0-windows\proyectoSimonDiceProg3.dll
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\bin\Debug\net8.0-windows\proyectoSimonDiceProg3.pdb
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\proyectoSimonDiceProg3.Form1.resources
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\proyectoSimonDiceProg3.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\proyectoSimonDiceProg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\proyectoSimonDiceProg3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\proyectoSimonDiceProg3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\proyectoSimonDiceProg3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\proyectoSimonDiceProg3.dll
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\refint\proyectoSimonDiceProg3.dll
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\proyectoSimonDiceProg3.pdb
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\proyectoSimonDiceProg3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\proyectoSimonDiceProg3\obj\Debug\net8.0-windows\ref\proyectoSimonDiceProg3.dll

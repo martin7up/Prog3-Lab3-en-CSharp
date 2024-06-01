@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\bin\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.exe
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\bin\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.deps.json
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\bin\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.runtimeconfig.json
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\bin\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.dll
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\bin\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.pdb
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\obj\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\obj\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\obj\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\obj\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\obj\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.dll
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\obj\Debug\net8.0\refint\proyectoElJuegoDeLaVidaProg3.dll
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\obj\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.pdb
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\obj\Debug\net8.0\proyectoElJuegoDeLaVidaProg3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\proyectoElJuegoDeLaVidaProg3\obj\Debug\net8.0\ref\proyectoElJuegoDeLaVidaProg3.dll

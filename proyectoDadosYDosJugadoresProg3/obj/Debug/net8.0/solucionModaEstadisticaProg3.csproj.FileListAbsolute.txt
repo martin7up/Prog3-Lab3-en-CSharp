@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\bin\Debug\net8.0\solucionModaEstadisticaProg3.exe
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\bin\Debug\net8.0\solucionModaEstadisticaProg3.deps.json
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\bin\Debug\net8.0\solucionModaEstadisticaProg3.runtimeconfig.json
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\bin\Debug\net8.0\solucionModaEstadisticaProg3.dll
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\bin\Debug\net8.0\solucionModaEstadisticaProg3.pdb
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\obj\Debug\net8.0\solucionModaEstadisticaProg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\obj\Debug\net8.0\solucionModaEstadisticaProg3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\obj\Debug\net8.0\solucionModaEstadisticaProg3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\obj\Debug\net8.0\solucionModaEstadisticaProg3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\obj\Debug\net8.0\solucionModaEstadisticaProg3.dll
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\obj\Debug\net8.0\refint\solucionModaEstadisticaProg3.dll
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\obj\Debug\net8.0\solucionModaEstadisticaProg3.pdb
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\obj\Debug\net8.0\solucionModaEstadisticaProg3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\proyectoDadosYDosJugadoresProg3\obj\Debug\net8.0\ref\solucionModaEstadisticaProg3.dll

@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\DateTimeEjemplo\bin\Debug\net8.0\DateTimeEjemplo.exe
+C:\Users\usuario\source\repos\DateTimeEjemplo\bin\Debug\net8.0\DateTimeEjemplo.deps.json
+C:\Users\usuario\source\repos\DateTimeEjemplo\bin\Debug\net8.0\DateTimeEjemplo.runtimeconfig.json
+C:\Users\usuario\source\repos\DateTimeEjemplo\bin\Debug\net8.0\DateTimeEjemplo.dll
+C:\Users\usuario\source\repos\DateTimeEjemplo\bin\Debug\net8.0\DateTimeEjemplo.pdb
+C:\Users\usuario\source\repos\DateTimeEjemplo\obj\Debug\net8.0\DateTimeEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\DateTimeEjemplo\obj\Debug\net8.0\DateTimeEjemplo.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\DateTimeEjemplo\obj\Debug\net8.0\DateTimeEjemplo.AssemblyInfo.cs
+C:\Users\usuario\source\repos\DateTimeEjemplo\obj\Debug\net8.0\DateTimeEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\DateTimeEjemplo\obj\Debug\net8.0\DateTimeEjemplo.dll
+C:\Users\usuario\source\repos\DateTimeEjemplo\obj\Debug\net8.0\refint\DateTimeEjemplo.dll
+C:\Users\usuario\source\repos\DateTimeEjemplo\obj\Debug\net8.0\DateTimeEjemplo.pdb
+C:\Users\usuario\source\repos\DateTimeEjemplo\obj\Debug\net8.0\DateTimeEjemplo.genruntimeconfig.cache
+C:\Users\usuario\source\repos\DateTimeEjemplo\obj\Debug\net8.0\ref\DateTimeEjemplo.dll

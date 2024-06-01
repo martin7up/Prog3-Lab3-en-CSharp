@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\bin\Debug\net8.0\primeroApConsolaLabComp3.exe
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\bin\Debug\net8.0\primeroApConsolaLabComp3.deps.json
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\bin\Debug\net8.0\primeroApConsolaLabComp3.runtimeconfig.json
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\bin\Debug\net8.0\primeroApConsolaLabComp3.dll
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\bin\Debug\net8.0\primeroApConsolaLabComp3.pdb
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\obj\Debug\net8.0\primeroApConsolaLabComp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\obj\Debug\net8.0\primeroApConsolaLabComp3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\obj\Debug\net8.0\primeroApConsolaLabComp3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\obj\Debug\net8.0\primeroApConsolaLabComp3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\obj\Debug\net8.0\primeroApConsolaLabComp3.dll
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\obj\Debug\net8.0\refint\primeroApConsolaLabComp3.dll
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\obj\Debug\net8.0\primeroApConsolaLabComp3.pdb
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\obj\Debug\net8.0\primeroApConsolaLabComp3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\primeroApConsolaLabComp3\primeroApConsolaLabComp3\obj\Debug\net8.0\ref\primeroApConsolaLabComp3.dll

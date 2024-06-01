@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyectoZooLabComp3_TUP_SotoMartin_Leg26907", "proyectoZooLabComp3_TUP_SotoMartin_Leg26907\proyectoZooLabComp3_TUP_SotoMartin_Leg26907.csproj", "{A6230989-7204-4346-B9F1-79C4CDCA177F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6230989-7204-4346-B9F1-79C4CDCA177F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6230989-7204-4346-B9F1-79C4CDCA177F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6230989-7204-4346-B9F1-79C4CDCA177F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6230989-7204-4346-B9F1-79C4CDCA177F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F783B294-5C30-4F55-B338-A6C6CA058A15}
+	EndGlobalSection
+EndGlobal

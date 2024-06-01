@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\proyInterfacesProg3\bin\Debug\net8.0\proyInterfacesProg3.exe
+C:\Users\usuario\source\repos\proyInterfacesProg3\bin\Debug\net8.0\proyInterfacesProg3.deps.json
+C:\Users\usuario\source\repos\proyInterfacesProg3\bin\Debug\net8.0\proyInterfacesProg3.runtimeconfig.json
+C:\Users\usuario\source\repos\proyInterfacesProg3\bin\Debug\net8.0\proyInterfacesProg3.dll
+C:\Users\usuario\source\repos\proyInterfacesProg3\bin\Debug\net8.0\proyInterfacesProg3.pdb
+C:\Users\usuario\source\repos\proyInterfacesProg3\obj\Debug\net8.0\proyInterfacesProg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\proyInterfacesProg3\obj\Debug\net8.0\proyInterfacesProg3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\proyInterfacesProg3\obj\Debug\net8.0\proyInterfacesProg3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\proyInterfacesProg3\obj\Debug\net8.0\proyInterfacesProg3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\proyInterfacesProg3\obj\Debug\net8.0\proyInterfacesProg3.dll
+C:\Users\usuario\source\repos\proyInterfacesProg3\obj\Debug\net8.0\refint\proyInterfacesProg3.dll
+C:\Users\usuario\source\repos\proyInterfacesProg3\obj\Debug\net8.0\proyInterfacesProg3.pdb
+C:\Users\usuario\source\repos\proyInterfacesProg3\obj\Debug\net8.0\proyInterfacesProg3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\proyInterfacesProg3\obj\Debug\net8.0\ref\proyInterfacesProg3.dll

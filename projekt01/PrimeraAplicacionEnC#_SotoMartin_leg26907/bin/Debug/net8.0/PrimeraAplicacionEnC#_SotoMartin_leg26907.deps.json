@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PrimeraAplicacionEnC#_SotoMartin_leg26907/1.0.0": {
+        "runtime": {
+          "PrimeraAplicacionEnC#_SotoMartin_leg26907.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeraAplicacionEnC#_SotoMartin_leg26907/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

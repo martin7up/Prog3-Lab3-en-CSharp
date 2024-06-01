@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\bin\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.exe
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\bin\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.deps.json
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\bin\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.runtimeconfig.json
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\bin\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.dll
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\bin\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.pdb
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\obj\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\obj\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\obj\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.AssemblyInfo.cs
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\obj\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\obj\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.dll
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\obj\Debug\net8.0\refint\PrimeraAplicacionEnC#_SotoMartin_leg26907.dll
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\obj\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.pdb
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\obj\Debug\net8.0\PrimeraAplicacionEnC#_SotoMartin_leg26907.genruntimeconfig.cache
+C:\Users\usuario\source\repos\projekt01\PrimeraAplicacionEnC#_SotoMartin_leg26907\obj\Debug\net8.0\ref\PrimeraAplicacionEnC#_SotoMartin_leg26907.dll
